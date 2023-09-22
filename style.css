@@ -22,14 +22,14 @@
     border-bottom: 3px solid rgb(8, 206, 8);
     border-left: 3px solid rgb(210, 9, 9);
     border-right: 3px solid rgb(216, 216, 6);
-    animation: 2s infinite loader;
+    animation: 2s linear infinite loader;
 }
 .loader4{
     height: 35px;
     width: 35px;
     border-radius: 50%;
     border: 3px dotted rgb(151, 206, 238);
-    animation: 2s infinite loader;
+    animation: 2s linear infinite loader;
 }
 @keyframes loader{ 
     0%{
